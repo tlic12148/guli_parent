@@ -1,0 +1,16 @@
+2022-09-13 15:03:26 |INFO  |main |StartupInfoLogger.java:55 |com.tlic.guli.service.edu.ServiceEduApplication |Starting ServiceEduApplication using Java 11.0.16.1 on MSI with PID 10868 (E:\04_repository\IDEA_workspace\guli_parent\service\service_edu\target\classes started by tlic1 in E:\04_repository\IDEA_workspace\guli_parent)
+2022-09-13 15:03:26 |INFO  |main |SpringApplication.java:640 |com.tlic.guli.service.edu.ServiceEduApplication |The following 1 profile is active: "dev"
+2022-09-13 15:03:27 |INFO  |main |TomcatWebServer.java:108 |org.springframework.boot.web.embedded.tomcat.TomcatWebServer |Tomcat initialized with port(s): 8110 (http)
+2022-09-13 15:03:27 |INFO  |main |DirectJDKLog.java:173 |org.apache.coyote.http11.Http11NioProtocol |Initializing ProtocolHandler ["http-nio-8110"]
+2022-09-13 15:03:27 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.StandardService |Starting service [Tomcat]
+2022-09-13 15:03:27 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.StandardEngine |Starting Servlet engine: [Apache Tomcat/9.0.65]
+2022-09-13 15:03:27 |INFO  |main |DirectJDKLog.java:173 |org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] |Initializing Spring embedded WebApplicationContext
+2022-09-13 15:03:27 |INFO  |main |ServletWebServerApplicationContext.java:292 |org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext |Root WebApplicationContext: initialization completed in 781 ms
+2022-09-13 15:03:28 |INFO  |main |PropertySourcedRequestMappingHandlerMapping.java:69 |springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping |Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2022-09-13 15:03:28 |INFO  |main |DirectJDKLog.java:173 |org.apache.coyote.http11.Http11NioProtocol |Starting ProtocolHandler ["http-nio-8110"]
+2022-09-13 15:03:28 |INFO  |main |TomcatWebServer.java:220 |org.springframework.boot.web.embedded.tomcat.TomcatWebServer |Tomcat started on port(s): 8110 (http) with context path ''
+2022-09-13 15:03:28 |INFO  |main |DocumentationPluginsBootstrapper.java:160 |springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper |Context refreshed
+2022-09-13 15:03:28 |INFO  |main |DocumentationPluginsBootstrapper.java:163 |springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper |Found 2 custom documentation plugin(s)
+2022-09-13 15:03:28 |INFO  |main |ApiListingReferenceScanner.java:41 |springfox.documentation.spring.web.scanners.ApiListingReferenceScanner |Scanning for api listing references
+2022-09-13 15:03:28 |INFO  |main |ApiListingReferenceScanner.java:41 |springfox.documentation.spring.web.scanners.ApiListingReferenceScanner |Scanning for api listing references
+2022-09-13 15:03:28 |INFO  |main |StartupInfoLogger.java:61 |com.tlic.guli.service.edu.ServiceEduApplication |Started ServiceEduApplication in 2.175 seconds (JVM running for 2.815)
